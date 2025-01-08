@@ -1,0 +1,60 @@
+# Table of contents
+
+* [AWS overview](README.md)
+* [Prerequisites](prerequisites/README.md)
+  * [Route 53 Hosted Zone](prerequisites/route-53-hosted-zone.md)
+  * [ACM Certificate](prerequisites/acm-certificate.md)
+  * [Kubectl Shell](prerequisites/kubectl-shell.md)
+* [Quick start](quick-start/README.md)
+  * [Step 1: Infrastructure](quick-start/step-1-infrastructure.md)
+  * [Step 2: Tenant](quick-start/step-2-tenant.md)
+  * [Step 3: Create Host](quick-start/step-3-create-host.md)
+* [❓ AWS FAQ](faq.md)
+
+## Guides
+
+* [Using AWS console](guides/using-aws-console.md)
+* [Web application firewall (WAF)](guides/web-application-firewall.md)
+* [CloudFront](guides/cloudfront.md)
+* [Cloud watch](guides/cloud-watch.md)
+* [Internet-of-Things (IoT)](guides/iot.md)
+* [Service discovery (CloudMap)](guides/service-discovery-cloudmap.md)
+* [Workspaces](guides/workspaces.md)
+* [API gateway](guides/api-gateway.md)
+* [Lambda](guides/lambda.md)
+* [Kinesis stream](guides/kinesis-stream.md)
+* [SNS topic](guides/sns-topic.md)
+* [SQS queue](guides/sqs-queue.md)
+* [DynamoDB](guides/dynamodb.md)
+* [Containers](guides/containers.md)
+* [Elasticsearch](guides/elasticsearch.md)
+* [S3 bucket](guides/s3-bucket.md)
+* [Elastic cache](guides/elastic-cache.md)
+* [RDS database](guides/rds-database.md)
+* [Virtual machines](guides/virtual-machines.md)
+* [Tenants](guides/tenants.md)
+* [Infrastructure](guides/infrastructure.md)
+* [Data pipeline](guides/data-pipeline.md)
+
+## Use Cases
+
+* [Remote working](use-cases/remote-working.md)
+* [Cloud migration (SMS)](use-cases/cloud-migration-sms.md)
+* [Security and compliance](use-cases/security-and-compliance.md)
+* [Big-data and ETL](use-cases/big-data-and-etl.md)
+* [Cost management](use-cases/cost-management.md)
+* [Disaster recovery](use-cases/disaster-recovery.md)
+* [Backup and restore](use-cases/backup-and-restore.md)
+* [Central logging](use-cases/central-logging.md)
+* [Alerting and notifications](use-cases/alerting-and-notifications.md)
+* [Faults and alarms](use-cases/faults-and-alarms.md)
+* [Monitoring](use-cases/monitoring.md)
+* [Passing secrets](use-cases/passing-secrets.md)
+* [Serverless web application](use-cases/serverless-web-application.md)
+* [Docker web application](use-cases/docker-web-application.md)
+* [S3 backend web application](use-cases/s3-backend-web-application.md)
+
+## Other
+
+* [🏠 Documentation home](https://app.gitbook.com/o/ojpRPRrP7bqrzOUuLmOz/s/TJnuruFwRFJ3A870QYpN/)
+* [🧑💻 Azure user guide](https://app.gitbook.com/o/ojpRPRrP7bqrzOUuLmOz/s/FdY6kwoklboT2M03BEpG/)
